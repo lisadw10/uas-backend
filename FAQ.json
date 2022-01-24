@@ -1,0 +1,249 @@
+{
+    "headers" : [
+        {
+            "headers left" : {
+                "teks" : "inspire",
+                "url" : "https://preview.colorlib.com/theme/inspire/index.html"
+            },
+            "headers right" : [
+                {
+                    "teks" : "Home",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html"
+                },
+                {
+                    "teks" : "Dropdown",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#",
+                    "attribute" : [
+                        {
+                            "teks" : "Elements",
+                            "url" : "https://preview.colorlib.com/theme/inspire/elements.html"
+                        },
+                        {
+                            "teks" : "Menu Two",
+                            "url" : "https://preview.colorlib.com/theme/inspire/index.html#",
+                            "attribute" : [
+                                {
+                                    "teks" : "Sub Menu One",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                },
+                                {
+                                    "teks" : "Sub Menu Two",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                },
+                                {
+                                    "teks" : "Sub Menu Three",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                }
+                            ]
+                        },
+                        {
+                            "teks" : "Menu Three",
+                            "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                        },
+                        {
+                            "teks" : "Servise",
+                            "url" : "https://preview.colorlib.com/theme/inspire/services.html"
+                        },
+                        {
+                            "teks" : "FAQ",
+                            "url" : "https://preview.colorlib.com/theme/inspire/faq.html"
+                        },
+                        {
+                            "teks" : "About",
+                            "url" : "https://preview.colorlib.com/theme/inspire/about.html"
+                        },
+                        {
+                            "teks" : "Contact Us",
+                            "url" : "https://preview.colorlib.com/theme/inspire/contact.html"
+                        }
+                    ]
+                }
+            ] 
+        }
+    ],
+    "body" : [
+        {
+            "body one" : [
+                {
+                    "tittle" : "Accordion",
+                    "teks" : "How To Download and register?",
+                    "deskripsi" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+                },
+                {
+                    "tittle" : "Accordion",
+                    "teks" : "How To Creat to Paypal Account?",
+                    "deskripsi" : "A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth."
+                },
+                {
+                    "tittle" : "Accordion",
+                    "teks" : "How To Creat to Paypal Account?",
+                    "deskripsi" : "When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way."
+                }
+            ]
+        },
+        {
+            "body two" : [
+                {
+                    "left" : [
+                        {
+                            "heading" : "Help Us by Sharing Our Works"
+                        },
+                        {
+                            "teks" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean."
+                        },
+                        {    
+                            "author" : "Carl Anderson"
+                        },
+                        {
+                            "name" : "CO-Founder & CEO"
+                        }
+                    ]
+                },
+                {
+                    "right" : {
+                        "tools" : "images",
+                        "url" : "https://preview.colorlib.com/theme/inspire/images/xabout_1.jpg.pagespeed.ic.9s5eLjsdot.webp"
+                    }
+                }
+            ]
+        }
+    ],
+    "Footer" : [
+        {
+            "heading" : {
+                "name" : "Help Us Spread Our Work",
+                "tools": "button",
+                "type" : "Next"
+            }
+        },
+        {
+            "footer left" : [
+                {
+                    "name" : "CONTACT"
+                },
+                {
+                    "type" : "address",
+                    "teks" : "43 Raymouth Rd. Baltemoer, London 3910"
+                },
+                {
+                    "type" : "number",
+                    "teks" : "+1(123)-456-7890",
+                    "url" : "tel://11234567890"
+                },
+                {
+                    "type" : "number",
+                    "teks" : "+1(123)-456-7890",
+                    "url" : "tel://11234567890"
+                },
+                {
+                    "type" : "email",
+                    "teks" : "info@mydomain.com",
+                    "url" : "/cdn-cgi/l/email-protection#3851565e577855415c5755595156165b5755"
+                }
+            ]
+        },
+        {
+            "footer center" : [
+                {
+                    "name" : "Source"
+                },
+                {
+                    "teks" : "About Us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Services",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Vision",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Mission",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Terms",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "privacy",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Partners",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Bussiness",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Carrers",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "FAQ",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Creative",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                }
+            ]
+        },
+        {
+            "footer Right" : [
+                {
+                    "name" : "Links"
+                },
+                {
+                    "teks" : "Our Vision",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "About us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Contact us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "icon" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-linkedin",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-pinterest",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-dribbble",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                }
+            ]
+        },
+        {
+            "Copyright" : "Copyright ©2022 All rights reserved | This template is made with  by",
+            "name" : "Colorlib",
+            "url" : "https://colorlib.com"
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+{
+    "headers" : [
+        {
+            "headers left" : {
+                "teks" : "inspire",
+                "url" : "https://preview.colorlib.com/theme/inspire/index.html"
+            },
+            "headers right" : [
+                {
+                    "teks" : "Home",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html"
+                },
+                {
+                    "teks" : "Dropdown",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#",
+                    "attribute" : [
+                        {
+                            "teks" : "Elements",
+                            "url" : "https://preview.colorlib.com/theme/inspire/elements.html"
+                        },
+                        {
+                            "teks" : "Menu Two",
+                            "url" : "https://preview.colorlib.com/theme/inspire/index.html#",
+                            "attribute" : [
+                                {
+                                    "teks" : "Sub Menu One",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                },
+                                {
+                                    "teks" : "Sub Menu Two",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                },
+                                {
+                                    "teks" : "Sub Menu Three",
+                                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                                }
+                            ]
+                        },
+                        {
+                            "teks" : "Menu Three",
+                            "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                        },
+                        {
+                            "teks" : "Servise",
+                            "url" : "https://preview.colorlib.com/theme/inspire/services.html"
+                        },
+                        {
+                            "teks" : "FAQ",
+                            "url" : "https://preview.colorlib.com/theme/inspire/faq.html"
+                        },
+                        {
+                            "teks" : "About",
+                            "url" : "https://preview.colorlib.com/theme/inspire/about.html"
+                        },
+                        {
+                            "teks" : "Contact Us",
+                            "url" : "https://preview.colorlib.com/theme/inspire/contact.html"
+                        }
+                    ]
+                }
+            ] 
+        }
+    ],
+    "body" : [
+        {
+        "Teks" : "Contact Us"
+        },
+        {
+            "tittle" : "Forms"
+        },
+        {
+            "teks" : "First Name",
+            "placeholder" : null
+        },
+        {
+            "tittle" : "Last Name",
+            "placeholder" : null
+        },
+        {
+            "tittle" : "Email Addres",
+            "placeholder" : null,
+            "teks" : "We'll never share your email with anyone else."
+        },
+        {
+            "tittle" : "Passwords",
+            "placeholder" : null
+        },
+        {
+            "tittle" : "Massage",
+            "placeholder" : null
+        },
+        {
+            "tittle" : "Select",
+            "placeholder" : {
+                "teks1" : "colorlib",
+                "teks2" : "Offers high quality free template"
+            }
+            
+        },
+        {
+            "class" : "checkbox",
+            "teks" : "Custom checkbox"
+        },
+        {
+            "button" : {
+                "Value": "Search",
+                "type": "Button"
+            }
+        }
+    ],
+    "Footer" : [
+        {
+            "heading" : {
+                "name" : "Help Us Spread Our Work",
+                "tools": "button",
+                "type" : "Next"
+            }
+        },
+        {
+            "footer left" : [
+                {
+                    "name" : "CONTACT"
+                },
+                {
+                    "type" : "address",
+                    "teks" : "43 Raymouth Rd. Baltemoer, London 3910"
+                },
+                {
+                    "type" : "number",
+                    "teks" : "+1(123)-456-7890",
+                    "url" : "tel://11234567890"
+                },
+                {
+                    "type" : "number",
+                    "teks" : "+1(123)-456-7890",
+                    "url" : "tel://11234567890"
+                },
+                {
+                    "type" : "email",
+                    "teks" : "info@mydomain.com",
+                    "url" : "/cdn-cgi/l/email-protection#3851565e577855415c5755595156165b5755"
+                }
+            ]
+        },
+        {
+            "footer center" : [
+                {
+                    "name" : "Source"
+                },
+                {
+                    "teks" : "About Us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Services",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Vision",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Mission",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Terms",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "privacy",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Partners",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Bussiness",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Carrers",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Blog",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "FAQ",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Creative",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                }
+            ]
+        },
+        {
+            "footer Right" : [
+                {
+                    "name" : "Links"
+                },
+                {
+                    "teks" : "Our Vision",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "About us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "teks" : "Contact us",
+                    "url" : "https://preview.colorlib.com/theme/inspire/#"
+                },
+                {
+                    "icon" : "fa fa-instagram",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-twitter",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-facebook",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-linkedin",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-pinterest",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                },
+                {
+                    "icon" : "fa fa-dribbble",
+                    "url" : "https://preview.colorlib.com/theme/inspire/index.html#"
+                }
+            ]
+        },
+        {
+            "Copyright" : "Copyright ©2022 All rights reserved | This template is made with  by",
+            "name" : "Colorlib",
+            "url" : "https://colorlib.com"
+        }
+    ]
+}

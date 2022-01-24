@@ -1,0 +1,240 @@
+{
+    "header": [
+        {
+            "topHead": [
+                {
+                    "Contact": {
+                        "icon": "fa fa-phone",
+                        "text": "022-4235729",
+                        "url": "tel:0224235729"
+                    }
+                },
+                {
+                    "Email": {
+                        "icon": "fa fa-Mail",
+                        "text": "smapasundansatubandung@gmail.com",
+                        "url": "mailto:smapasundansatubandung@gmail.com"
+                    }
+                },
+                {
+                    "Alamat": {
+                        "icon": "fa fa-ArrowHandRight",
+                        "text": "Jl. Balonggede No. 28 Kota Bandung",
+                        "url": null
+                    }
+                },
+                {
+                    "FormPPDB": {
+                        "icon": null,
+                        "text": "FORMULIR PPDB 2022/2023",
+                        "url": "http://202.138.232.150/ppdb"
+                    }
+                }
+            ]
+        },
+        {
+            "BottomHead": [
+                {
+                    "Logo": [
+                        {
+                            "ImgLogo": {
+                                "image": "https://pasone.id/wp-content/uploads/2021/01/cropped-logo94-e1612018820251.png",
+                                "url": "https://pasone.id"
+                            }
+                        },
+                        {
+                            "TextLogo": {
+                                "text": "SMA PASUNDAN 1 BANDUNG",
+                                "url": "https://pasone.id"
+                            }
+                        },
+                        {
+                            "desk": {
+                                "text": "Pasone Reborn",
+                                "url": null
+                            }
+                        }
+                    ]
+                },
+                {
+                    "searchBar": {
+                        "placeholder": "Search...",
+                        "CurrentValue": null,
+                        "button": {
+                            "Value": "Search",
+                            "type": "Button"
+                        },
+                        "floattxt": "Search for"
+                    }
+                }
+            ]
+        }
+    ],
+    "Body": [
+        {
+            "menu": [
+                {
+                    "item": {
+                        "text": "Beranda",
+                        "url": "https://pasone.id"
+                    }
+                },
+                {
+                    "item": {
+                        "text": "Profil",
+                        "url": "https://pasone.id/index.php/profil/",
+                        "attribute": [
+                            {
+                                "text": "Sambutan Kepala Sekolah",
+                                "url": "https://pasone.id/index.php/profil/sambutan-kepala-sekolah/"
+                            },
+                            {
+                                "text": "Sejarah Singkat",
+                                "url": "https://pasone.id/index.php/profil/sejarah-singkat/"
+                            },
+                            {
+                                "text": "Visi dan Misi",
+                                "url": "https://pasone.id/index.php/profil/visi-dan-misi/"
+                            },
+                            {
+                                "text": "Tujuan",
+                                "url": "https://pasone.id/index.php/profil/tujuan/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "item": {
+                        "text": "Program Sekolah",
+                        "url": "https://pasone.id/index.php/category/informasi/"
+                    }
+                },
+                {
+                    "item": {
+                        "text": "GTK dan Siswa",
+                        "url": "https://pasone.id/index.php/category/informasi/"
+                    }
+                },
+                {
+                    "item": {
+                        "text": "Sarana Prasarana",
+                        "url": "https://pasone.id/index.php/category/informasi/"
+                    }
+                },
+                {
+                    "item": {
+                        "text": "Kegiatan Sekolah",
+                        "url": "https://pasone.id/index.php/category/informasi/",
+                        "attribute": {
+                            "text": "Hafalan Al-Quran",
+                            "url": "https://pasone.id/index.php/category/hafalan-al-quran/",
+                            "ItemHafalan": [
+                                {
+                                    "text": "Qur'an Kemenag",
+                                    "url": "https://quran.kemenag.go.id/"
+                                },
+                                {
+                                    "text": "Juz Amma",
+                                    "url": "https://drive.google.com/file/d/1WsaPFBDtQXrc6rhh9JJGYBUekLYXcB5Q/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-1 Alfatihah",
+                                    "url": "https://drive.google.com/file/d/1xFTLI0PQIgAVPd2OqoCk6OXel-Nz6Apg/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-2 Al Baqarah",
+                                    "url": "https://drive.google.com/file/d/1QWj5MEYf5nCBRL7rYl8AUYfZrIHwGfTO/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-3 Ali Imron",
+                                    "url": "https://drive.google.com/file/d/12n7temVLDlDLSs9WlekmvumKae1aJSGv/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-4 An nisaa'",
+                                    "url": "https://drive.google.com/file/d/1D9gyEGHqm8RHg8FoB4Lqdst-1vgF3MWq/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-110 An nashr'",
+                                    "url": "https://drive.google.com/file/d/1wjJZBX1lFPGWiNlWiPEXsbu04_xrtJHQ/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-111 Al Lahab",
+                                    "url": "https://drive.google.com/file/d/1--WMNY-4RMidAc6CfXJGHCW42mHjyUEz/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-112 Al Ikhlas",
+                                    "url": "https://drive.google.com/file/d/16xBKx7J8eny8QpGfMS6Hr97qNKV7cCYV/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-113 AL Falaq",
+                                    "url": "https://drive.google.com/file/d/1Fv3mq_nYAkwKSo5-Y18luBS1wcme7DDf/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Q.S. Ke-114 An Naas",
+                                    "url": "https://drive.google.com/file/d/1iMG778i870h8hk6JAEj0WVKSBGKfYT5O/view?usp=sharing"
+                                },
+                                {
+                                    "text": "Murotal",
+                                    "url": "https://drive.google.com/drive/folders/1_OQpZdl1880yBjCvyShRDHIDuXUb1ooI?usp=sharing"
+                                }
+                            ]
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "slider": [
+                {
+                    "button": {
+                        "icon": "fa fa-Arrow-Left",
+                        "type": "Button",
+                        "onclick": "Prev"
+                    }
+                },
+                {
+                    "itemSlider": {
+                        "text": "Monitoring Dokumen",
+                        "Image": "Monitoring Dokumen1.jpg",
+                        "url": "https://pasone.id/wp-content/uploads/2021/01/Monitoring-Dokumen-1.jpg"
+                    }
+                },
+                {
+                    "itemSlider": {
+                        "text": "Galih Adriansyah",
+                        "Image": "Galih Adriansyah.jpg",
+                        "url": "https://pasone.id/wp-content/uploads/2021/02/Galih-Adriansyah.jpeg"
+                    }
+                },
+                {
+                    "itemSlider": {
+                        "text": "Presentasi Manajemen Mutu",
+                        "Image": "presentasi-pembuatan-RKJM.jpg",
+                        "url": "https://pasone.id/wp-content/uploads/2021/01/presentasi-pembuatan-RKJM.jpg"
+                    }
+                },
+                {
+                    "itemSlider": {
+                        "text": "Mutiara",
+                        "Image": "20200730_082944-Beti-Kurniati.jpg",
+                        "url": "https://pasone.id/wp-content/uploads/2021/01/Promo-21-A.jpg"
+                    }
+                },
+                {
+                    "itemSlider": {
+                        "text": "Salah Satu Aktifitas PPJ",
+                        "Image": "Monitoring Dokumen1.jpg",
+                        "url": "https://pasone.id/wp-content/uploads/2021/01/20200730_082944-Beti-Kurniati.jpg"
+                    }
+                },
+                {
+                    "button": {
+                        "icon": "fa fa-Arrow-Next",
+                        "type": "Button",
+                        "onclick": "Next"
+                    }
+                }
+            ]
+        }
+    ]
+}
